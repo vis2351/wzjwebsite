@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('(https://github.com/vis2351/wzjwebsite/blob/main/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(2)/%E8%83%8C%E6%99%AF.jpg?raw=true)'); 
+            background-image: url('https://github.com/vis2351/wzjwebsite/blob/main/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(2)/%E8%83%8C%E6%99%AF.jpg?raw=true'); 
             background-size: cover;
             background-position: center; 
         }

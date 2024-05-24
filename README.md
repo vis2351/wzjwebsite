@@ -54,7 +54,7 @@
     <div class="container">
         <div class="personal-info">
             <h2>个人基本信息</h2>
-			<img src="新建文件夹（2）/照片.jpg" alt="照片" style="max-width: 200px;">
+			<img src="https://raw.githubusercontent.com/vis2351/wzjwebsite/master/新建文件夹（2）/照片.jpg" alt="照片" style="max-width: 200px;">
             <p><strong>姓名：</strong> 王子嘉</p>
             <p><strong>学号：</strong> U202214941</p>
             <p><strong>班级：</strong> 自动化2202班</p>
